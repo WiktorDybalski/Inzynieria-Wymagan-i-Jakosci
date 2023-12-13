@@ -40,7 +40,3 @@ Dodatkowo, zdecydowaliśmy się dodać elementy, które miały wzbudzić uśmiec
 [Wiktor Dybalski](https://github.com/WiktorDybalski)
 
 [Piotr Karamon](https://github.com/KaramonPiotr)
-
-## Moja rola w zespole
-
-Pełniłem rolę lidera, zarządzając pracą i ustalając terminy. Ponadto aktywnie uczestniczyłem w pracy nad projektem, podobnie jak pozostali członkowie zespołu.
