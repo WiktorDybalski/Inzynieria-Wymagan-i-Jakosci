@@ -7,7 +7,6 @@
 1. [Wymagania w projekcie](#wymagania-w-projekcie)
 2. [Prezentacja](#prezentacja)
 3. [Zespół](#zespół)
-4. [Moja rola w zespole](#moja-rola-w-zespole)
 
 ## Wymagania w projekcie
 
